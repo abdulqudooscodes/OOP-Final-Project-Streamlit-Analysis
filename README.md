@@ -9,8 +9,8 @@
 | # | Name         | Roll Number |
 | - | ------------ | ----------- |
 | 1 | Abdul Qudoos | 2046        |
-| 2 | Ali Hassan   | 2065        |
-| 3 | Ahmed Hassan | 2062        |
+| 2 | Ali Hassan   | 2062        |
+| 3 | Ahmed Hassan | 2065        |
 
 ---
 
